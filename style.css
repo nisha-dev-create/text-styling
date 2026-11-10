@@ -1,0 +1,43 @@
+body{
+    background-color: brown;
+    background-image: url(bg1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 5px 5px 5px;
+
+}
+
+header{
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 10px;
+}
+
+h1{
+    text-shadow: 10px 10px 5px rgb(182, 187, 192);
+}
+
+.about{
+    background-color:rgb(244, 229, 211, 0.95);
+    color: rgb(149, 155, 160);
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 10px;
+    border: 5px solid rgb(152, 143, 130);
+
+}
+
+.films{
+    background-color:rgb(240, 248, 255, 0.8);
+    color: rgb(116, 74, 74);
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 10px;
+    border: 5px solid rgb(134, 138, 143);
+}
